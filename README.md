@@ -11,5 +11,5 @@ Various small data science projects
 
 * [Time series data](https://github.com/m0baxter/dataProjects/tree/master/timeseries): extrapolation (prediction).
 
-* [Sales data](https://github.com/m0baxter/dataProjects/tree/master/blackfriday)
+* [Sales data](https://github.com/m0baxter/dataProjects/tree/master/blackfriday).
 
