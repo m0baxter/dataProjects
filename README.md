@@ -14,3 +14,6 @@ Various small data science projects
 * [Sales data](https://github.com/m0baxter/dataProjects/tree/master/blackfriday).
 
 * [Song year data](https://github.com/m0baxter/dataProjects/tree/master/songYear): regression.
+
+* [Twitter sentiment data](https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/): classification, NLP.
+
